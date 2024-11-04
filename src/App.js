@@ -5,8 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <h1> Benkhaled ouss</h1>
-      <h2>yousra ben</h2>
+    <h1>new project react</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
